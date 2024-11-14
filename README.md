@@ -78,7 +78,7 @@ backend web_tcp
 
 - Запросы
 
-![Curl](https://github.com/biparasite/12-01HW/blob/main/curl.png)
+![Curl](https://github.com/biparasite/12-01HW/blob/main/http.png)
 
 ---
 
