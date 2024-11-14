@@ -13,7 +13,7 @@
 ####На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 
-1. [Конфигурационный файл haproxy[(https://github.com/biparasite/12-01HW/blob/main/haproxy.cfg)
+1. [Конфигурационный файл haproxy](https://github.com/biparasite/12-01HW/blob/main/haproxy.cfg)
 ```
 global
     log /dev/log	local0
@@ -72,7 +72,7 @@ backend web_tcp
     server s2 127.0.0.1:9999 check inter 3s
 ```
 
-![Скриншот статистики haproxy](https://github.com/biparasite/11-02HW/blob/main/haproxy.png)
+![Скриншот статистики haproxy](https://github.com/biparasite/12-01HW/blob/main/haproxy.png)
 
 ---
 
