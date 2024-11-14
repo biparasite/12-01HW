@@ -72,7 +72,13 @@ backend web_tcp
     server s2 127.0.0.1:9999 check inter 3s
 ```
 
+- Статистика haproxy
+
 ![Скриншот статистики haproxy](https://github.com/biparasite/12-01HW/blob/main/haproxy.png)
+
+- Запросы
+
+![Curl](https://github.com/biparasite/12-01HW/blob/main/curl.png)
 
 ---
 
